@@ -7,10 +7,6 @@
       email: jim@jimvanfleet.com
       bio: "Owns a software consultancy, and is a leader in the entrepreneurship community in Charlotte."
     -
-      name: "Taylor Smith"
-      email: tsmit291@icloud.com
-      bio: "Mobile App Specialist for a Hospitality Company, Charlotte native."
-    -
       name: "Jill Bjers"
       email: jill.bjers@gmail.com
       bio: "Leads government outreach and our events calendar"
@@ -57,3 +53,7 @@
       name: "Riley Childs"
       email: riley@rileychilds.net
       bio: "A Geek who loves his city and has skills across many technical disciplines, FLOSS FTW!"  
+    -
+     name: "Taylor Smith"
+      email: tsmit291@icloud.com
+      bio: "Mobile App Specialist for a Hospitality Company, Charlotte native."
